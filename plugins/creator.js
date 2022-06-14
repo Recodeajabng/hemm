@@ -11,30 +11,31 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner Zifabotz tidak menerima save contact
+• Owner Zifabotz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Owner Zifabotz Hanya merespon yang berkaitan dengan BOT
 • No Telp`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Letta
-*ᴀɢᴇ:* 13ᵗʰ
-*ᴄʟᴀss:* 7
-*sᴛᴀᴛᴜs:* single 
+*Nama:* rozi
+*Umur:* 15thn
+*Kelas:* 10
+*Status:* beroacaran 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 5 Oct 2008
-*ᴀᴅᴅʀᴇss:* Indonesia, jawa barat, bogor
+*Lahir:* 7 juli 2007
+*Alamat:* Indonesia, Kalimantan barat, Pontianak
 
-*- - sᴋɪʟʟs: - -* 
+*- - status: - -* 
 > JavaScript [89.7%]
 > Python [13.4%]
 > CSS [5.1%]
 > Html [1.2%]
 
 📷 *Instagram:* ${sig}
+🧸 *YouTube:* ${syt}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 
