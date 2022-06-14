@@ -47,6 +47,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/zalfapontianak'
 global.sgh = 'https://github.com/Botynyakamu'
 global.sgc = '-'
+global.syt = 'https://youtu.be/7qKuw6uulrY'
 global.sdc = '-'
 global.snh = '-'
 
